@@ -13,7 +13,7 @@ The project features:
 
 - A **quantum-based seed generator**
 - Use of fake Qiskit backends to simulate **quantum noise**
-- A **basic encryption and decryption algorithm** utilizing the generated random seed  
+- A **basic encryption and decryption algorithm** utilizing the generated random seed and **Von Neumann bias extractor**
 
 ## Key Learnings
 
