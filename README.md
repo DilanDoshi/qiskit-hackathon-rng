@@ -4,7 +4,7 @@
 
 This repository showcases my first experience participating in the **Qiskit Fall Fest Hackathon**, organized by the **UCLA Quantum Computing Student Association (QCSA)**.
 
-During this event, I was introduced to the fundamentals of **Quantum Computing**, including concepts such as **quantum gates**, **circuits**, **noise-reduction techniques**, and the **Qiskit framework**.
+During this event, I was introduced to the fundamentals of **Quantum Computing**, including concepts such as **quantum gates**, **circuits**, **noise-reduction techniques**, and the **Qiskit framework**. This is my first time learning about Quantum Computing as well as using Qiskit. 
 
 ## Project Overview
 
